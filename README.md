@@ -71,7 +71,7 @@ https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY-NAME/
 ## File structure
 
 ```text
-sonai-adventure-v2/
+sonai-adventure/
 ├── index.html
 ├── styles.css
 ├── src/
